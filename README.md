@@ -1,5 +1,5 @@
 # MachineTestApp
-
+checkout to Master branch for Project folder.
 Created this application on intelliJ IDE
 Here is the steps to run application
 Used postman to test API's
